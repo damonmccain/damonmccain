@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @damonmccain
 - 👀 I’m interested in ...Programming,Linux,BSD
-- 🌱 I’m currently learning ...Web-design,Programming
-- 💞️ I’m looking to collaborate on ...Programming projects
+- 🌱 I’m currently learning ...Containers
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...prdamon@outlook.com
 
 <!---
